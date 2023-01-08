@@ -1,0 +1,8 @@
+{
+    "current": "teacher",
+    "profiles": {
+        "admin": [],
+        "teacher": [],
+        "student": []
+    }
+}
